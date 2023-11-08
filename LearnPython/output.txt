@@ -1,0 +1,4 @@
+bot_name = "dgs"
+birth_year = 1997
+print(f"Hello! my name is {bot_name}")
+print(f"I was created in {birth_year}")
